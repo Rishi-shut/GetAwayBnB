@@ -27,4 +27,5 @@ GetAway BnB is a full-featured vacation rental platform, inspired by Airbnb. It 
 - Mapbox (for location/map)
 - Date-fns (for date handling)
 
+Done**
 
